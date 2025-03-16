@@ -135,7 +135,7 @@ p.note { display: none; }
 <a href="20250316_002.JPG" target="_blank"><img src="20250316_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250316_003.JPG" target="_blank"><img src="20250316_003.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">3月にはもう食べられませんが、気候変動の影響でまだ美味しくいただけました</span></h2>
+<h2><span class="yellow">通常は3月はもう食べられませんが、気候変動の影響でまだ美味しくいただけました</span></h2>
 <a href="20250316_004.JPG" target="_blank"><img src="20250316_004.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">近所の梅も見事に咲きました</span></h2>
